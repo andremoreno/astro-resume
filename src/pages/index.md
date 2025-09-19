@@ -9,12 +9,14 @@ pdfLink: resume.pdf
 
 **Fullstack Web Developer.**
 
-Jakarta, Indonesia | andre@andremoreno.id | https://www.andremoreno.id
+Jakarta, Indonesia | andre@andremoreno.id | [andremoreno.id](https://www.andremoreno.id) | [@andremoreno](https://www.instagram.com/andremoreno)
 
 Experienced Fullstack Web Developer and Tech Entrepreneur dengan 10+ tahun pengalaman dalam pengembangan web applications, mobile applications, dan bisnis digital. Founder PT Eka 
 Panca Bersama dengan track record sukses mengembangkan dan menjual startup (
 Writelonger.com) ke perusahaan internasional. Spesialisasi dalam PHP, JavaScript, Python dan
 passionate tentang photography dan emerging technologies.
+
+---
 
 ## Work Experience
 
@@ -53,7 +55,7 @@ passionate tentang photography dan emerging technologies.
 
 #### Various Projects | 2015 - Present
 - Developed Andre Moreno Photography Portfolio (www.andremoreno.id) using Hugo static site generator
-- Created political campaign websites with modern responsive design
+- Created political campaign websites with modern responsive design (www.doddysiahaan.id)
 - Built e-commerce solutions and content management systems for small businesses
 - Specialized in: Performance optimization, responsive design, static site generation
 
@@ -62,9 +64,13 @@ passionate tentang photography dan emerging technologies.
 #### Various Projects | 2015 - Present
 - Professional photography services for weddings, events, and corporate clients
 - Specialized in portrait photography, event documentation, and commercial photography
-- Portfolio showcase: www.andremoreno.id featuring wedding, pre-wedding, portrait, and event photography
+- Developed comprehensive photography portfolio showcasing diverse shooting styles
+- Collaborated with clients to deliver high-quality visual content for marketing and personal use
+- Portfolio showcase: www.andremoreno.id featuring wedding, portrait, and event photography
 - Services: Wedding photography, pre-wedding sessions, corporate events, product photography
-- Technical expertise: Professional camera equipment, lighting setup, post-processing
+- Technical expertise: Professional camera equipment, lighting setup, post-processing with Adobe Creative Suite
+
+---
 
 ## EDUCATION
 
@@ -77,6 +83,8 @@ Senior High School | 1996 - 1999
 - Modern JavaScript frameworks and libraries
 - Cloud deployment and DevOps practices
 - Photography and visual design principles
+
+---
 
 ## TECHNICAL SKILLS
 
@@ -105,6 +113,8 @@ Senior High School | 1996 - 1999
 - Attention to Detail - Code quality, testing, and documentation
 - Client Relations - Requirements gathering, progress reporting, technical consultation
 
+---
+
 ## KEY ACHIEVEMENTS
 
 ### Entrepreneurial Success
@@ -122,6 +132,8 @@ Senior High School | 1996 - 1999
 - Professional photography portfolio - www.andremoreno.id showcases technical and creative skills
 - Visual design understanding - Combines technical development with aesthetic sensibility
 - Creative problem solving - Innovative approaches to both technical and design challenges
+
+---
 
 ## FEATURED PROJECTS
 
@@ -142,19 +154,38 @@ Senior High School | 1996 - 1999
 - Technologies: JavaScript, PHP, Twitter API
 - Successfully acquired by Thompson Digital Holdings, LLC
 
+-----
+
 ## LANGUAGES
 
 | Bahasa Indonesia        | English     |
 | -------------- | ----------- |
-| Native speaker | Proficiency |
+| Native speaker | (Professional Working Proficiency) |
 
 ## INTERESTS & HOBBIES
-- Music, Gaming, Photography, Coding, Continuous Learning
+- Photography - Wedding, portrait, event, and commercial photography
+- Social Media Content Creation - Instagram photography and storytelling
+- Music - Listening to various genres and discovering new artists
+- Gaming - Strategy games, mobile games, and puzzle solving
+- Coding - Experimenting with new web technologies and frameworks
+- Visual Arts - Exploring creative composition and visual storytelling
+- Continuous Learning - Staying updated with latest development trends and photography techniques
 
 ## LET'S CONNECT
-- Available for fullstack development, technical consulting, performance optimization, remote collaboration, and startup advising
+I bring a unique combination of technical expertise and creative vision to every project. 
+Whether you need a senior developer, professional photographer, technical consultant, or
+creative problem solver, I offer comprehensive solutions that bridge technology and visual arts.
 
-© 2025 Andreas Rikardo Yohanes | All Rights Reserved
+Available for:
+- **Fullstack web development** projects and technical architecture
+- **Professional photography services** (weddings, events, portraits, commercial)
+- Technical consulting and system optimization
+- Creative direction combining technical and visual expertise
+- Remote collaboration and international team integration
+
+
+--- 
+© 2025 Andreas Rikardo | All Rights Reserved
 
 
 
