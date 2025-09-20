@@ -11,10 +11,11 @@ pdfLink: resume.pdf
 
 Jakarta, Indonesia | andre@andremoreno.id | [andremoreno.id](https://www.andremoreno.id) | [@andremoreno](https://www.instagram.com/andremoreno)
 
-Experienced Fullstack Web Developer and Tech Entrepreneur dengan 10+ tahun pengalaman dalam pengembangan web applications, mobile applications, dan bisnis digital. Founder PT Eka 
-Panca Bersama dengan track record sukses mengembangkan dan menjual startup (
-Writelonger.com) ke perusahaan internasional. Spesialisasi dalam PHP, JavaScript, Python dan
-passionate tentang photography dan emerging technologies.
+Experienced Fullstack Web Developer and Creative Professional with 10+ years of expertise in
+developing web applications, mobile applications, and digital solutions. Successfully created and
+sold Writelonger.com to an international company. Combines technical expertise in PHP,
+JavaScript, Python, MySQL with professional photography skills. Strong background in both
+technical development and visual storytelling, bringing unique perspective to digital projects.
 
 ---
 
